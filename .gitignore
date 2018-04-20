@@ -1,7 +1,0 @@
-pkg/
-src/
-*.tar.gz
-*.tar.xz
-*.AppImage
-*.swp
-*.zip
